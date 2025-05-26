@@ -2,5 +2,10 @@
     "serverAddress": "fbi.gov",
     "serverName": "Federal Bureau of Investigation",
     "iconName": "fbi.png",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
     "terminalID": "fbi"
 }
